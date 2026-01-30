@@ -1,0 +1,6 @@
+pre-commit:
+  jobs:
+    - name: prettier format
+      glob: "*"
+      run: pnpm run format
+      stage_fixed: true

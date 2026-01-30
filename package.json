@@ -1,0 +1,45 @@
+{
+  "name": "@himenon/zed-theme-darcula-darker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Darcula Darker color theme for Zed Editor, ported from kevinvn1709's VS Code Dracula theme",
+  "keywords": [
+    "darcula",
+    "dark-theme",
+    "dracula",
+    "theme",
+    "zed"
+  ],
+  "license": "MIT",
+  "author": "Himenon <6715229+Himenon@users.noreply.github.com>",
+  "contributors": [
+    {
+      "name": "kevinvn1709",
+      "url": "https://github.com/kevinvn1709"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Himenon/zed-theme-darcula-darker"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "lefthook install",
+    "format": "oxfmt && prettier --write **/*.md"
+  },
+  "devDependencies": {
+    "lefthook": "^2.0.16",
+    "oxfmt": "^0.27.0",
+    "prettier": "^3.8.1"
+  },
+  "prettier": {
+    "semi": true,
+    "tabWidth": 2,
+    "trailingComma": "all"
+  },
+  "engines": {
+    "node": "v24.13.0"
+  },
+  "packageManager": "pnpm@10.27.0"
+}

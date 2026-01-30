@@ -1,0 +1,116 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "name": "Darcula Darker",
+  "author": "Himenon (ported from kevinvn1709's VS Code theme)",
+  "themes": [
+    {
+      "name": "Darcula Darker",
+      "appearance": "dark",
+      "style": {
+        "background.appearance": "opaque",
+        "accents": [],
+        "background": "#212122",
+        "drop_target.background": "#383b3d",
+        "toolbar.background": "#212122",
+        "scrollbar.track.background": "#212122",
+        "editor.foreground": "#d4d4d4",
+        "editor.background": "#212122",
+        "editor.gutter.background": "#212122",
+        "editor.active_line.background": "#2A2A2B",
+        "editor.active_line_number": "#d4d4d4",
+        "hint": "#969696ff",
+        "players": [],
+        "syntax": {
+          "attribute": {
+            "color": "#BABABA"
+          },
+          "boolean": {
+            "color": "#CC7832",
+            "font_weight": 700.0
+          },
+          "comment": {
+            "color": "#808080"
+          },
+          "comment.doc": {
+            "color": "#808080"
+          },
+          "constant": {
+            "color": "#CC7832",
+            "font_weight": 700.0
+          },
+          "constructor": {
+            "color": "#FFC66D"
+          },
+          "emphasis.strong": {
+            "color": "#A9B7C6"
+          },
+          "function": {
+            "color": "#FFC66D"
+          },
+          "keyword": {
+            "color": "#CC7832",
+            "font_weight": 700.0
+          },
+          "number": {
+            "color": "#6897BB"
+          },
+          "operator": {
+            "color": "#A9B7C6"
+          },
+          "preproc": {
+            "color": "#CC7832"
+          },
+          "property": {
+            "color": "#9876AA"
+          },
+          "punctuation": {
+            "color": "#FFC66D"
+          },
+          "punctuation.bracket": {
+            "color": "#FFC66D"
+          },
+          "punctuation.delimiter": {
+            "color": "#FFC66D"
+          },
+          "punctuation.list_marker": {
+            "color": "#FFC66D"
+          },
+          "punctuation.special": {
+            "color": "#FFC66D"
+          },
+          "string": {
+            "color": "#6A8759"
+          },
+          "string.escape": {
+            "color": "#6A8759"
+          },
+          "string.regex": {
+            "color": "#6A8759"
+          },
+          "string.special": {
+            "color": "#6A8759"
+          },
+          "string.special.symbol": {
+            "color": "#6A8759"
+          },
+          "tag": {
+            "color": "#FFC66D"
+          },
+          "text.literal": {
+            "color": "#6A8759"
+          },
+          "type": {
+            "color": "#FFC66D"
+          },
+          "variable": {
+            "color": "#9876AA"
+          },
+          "variable.special": {
+            "color": "#CC7832",
+            "font_weight": 700.0
+          }
+        }
+      }
+    }
+  ]
+}
