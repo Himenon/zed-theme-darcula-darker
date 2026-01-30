@@ -1,0 +1,10 @@
+id = "zed-theme-darcula-darker"
+name = "Darcula Darker Theme"
+description = "Darcula Darker color theme for Zed Editor, ported from kevinvn1709's VS Code Dracula theme"
+version = "1.0.9"
+authors = [
+  "Himenon <6715229+Himenon@users.noreply.github.com>",
+  "kevinvn1709 (Original color scheme)",
+]
+repository = "https://github.com/Himenon/zed-theme-darcula-darker"
+schema_version = 1
