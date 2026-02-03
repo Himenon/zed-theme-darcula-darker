@@ -1,4 +1,4 @@
-# zed-theme-darcula-darker
+# zed-darcula-darker-theme
 
 A Darcula Darker color theme for Zed Editor.
 

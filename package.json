@@ -1,5 +1,5 @@
 {
-  "name": "@himenon/zed-theme-darcula-darker",
+  "name": "@himenon/zed-darcula-darker-theme",
   "version": "1.0.0",
   "private": true,
   "description": "Darcula Darker color theme for Zed Editor, ported from kevinvn1709's VS Code Dracula theme",
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Himenon/zed-theme-darcula-darker"
+    "url": "https://github.com/Himenon/zed-darcula-darker-theme"
   },
   "type": "module",
   "main": "index.js",
