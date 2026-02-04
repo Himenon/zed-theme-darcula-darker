@@ -7,6 +7,9 @@
       "name": "Darcula Darker",
       "appearance": "dark",
       "style": {
+        "ignored": "#AAAAAA",
+        "text": "#FEFEFE",
+        "text.muted": "#FEFEFE",
         "background.appearance": "opaque",
         "accents": [],
         "background": "#212122",
@@ -14,7 +17,7 @@
         "toolbar.background": "#212122",
         "scrollbar.track.background": "#212122",
         "editor.foreground": "#d4d4d4",
-        "editor.background": "#212122",
+        "editor.background": "#111111",
         "editor.gutter.background": "#212122",
         "editor.active_line.background": "#2A2A2B",
         "editor.active_line_number": "#d4d4d4",
