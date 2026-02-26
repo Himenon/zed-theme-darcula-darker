@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Darcula Darker",
+  "name": "Cleary Darcula Darker",
   "author": "Himenon (ported from kevinvn1709's VS Code theme)",
   "themes": [
     {
-      "name": "Darcula Darker",
+      "name": "Cleary Darcula Darker",
       "appearance": "dark",
       "style": {
         "ignored": "#AAAAAA",
